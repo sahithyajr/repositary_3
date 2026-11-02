@@ -1,1 +1,1 @@
-# repositary_3
+print("hello world")
